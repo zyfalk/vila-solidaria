@@ -10,7 +10,7 @@ O sistema Vila Solidária é uma aplicação web desenvolvida para otimizar o ge
 * `/database`: Scripts de criação e modelagem do banco de dados (PostgreSQL).
 
 ## Instruções de Instalação (Ambiente de Desenvolvimento)
-1. Clone este repositório: `git clone [URL_DO_SEU_REPOSITORIO]`
+1. Clone este repositório: `git clone https://github.com/zyfalk/vila-solidaria.git`
 2. Acesse a pasta do backend e instale as dependências: `npm install`
 3. Copie o arquivo `.env.example` e renomeie para `.env`, preenchendo as variáveis de banco de dados.
 4. Execute o servidor: `npm run dev`
